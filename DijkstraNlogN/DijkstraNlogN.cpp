@@ -130,6 +130,7 @@ void readFromFile() {
 }
 
 int main() {
+	printf("OKOKOKOKOK!");
 	readFromFile();
 	return 0;
 }

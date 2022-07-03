@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+/DijkstraNlogN/Debug
+/.vs
+/Debug
+/DijkstraNlogN/x64/Debug
+/x64/Debug
